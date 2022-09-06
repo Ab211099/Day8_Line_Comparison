@@ -8,10 +8,7 @@ namespace Line_Comparison
 {
     internal class Class1
     {
-<<<<<<< HEAD
 
-=======
->>>>>>> UC1
         public static void LineComputation()
         {
             int x1, y1, x2, y2;
